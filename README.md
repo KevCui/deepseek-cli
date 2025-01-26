@@ -42,7 +42,9 @@ $ ./deepseek.js "enter any text here"
 
 ## Want an alternative?
 
-Check out [chatgpt-cli](https://github.com/KevCui/chatgpt-cli)
+- Check out [chatgpt-cli](https://github.com/KevCui/chatgpt-cli)
+- Check out [copilot-cli](https://github.com/KevCui/copilot-cli)
+- Check out [duckai-cli](https://github.com/KevCui/duckai-cli)
 
 ## Note
 
