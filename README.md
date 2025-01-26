@@ -17,10 +17,23 @@
 
 ## Installation
 
+- Install dependencies
+
 ```bash
 npm i playwright-extra puppeteer-extra-plugin-stealth
 npx playwright install chromium
 ```
+
+- Set value in `config.json`
+
+```bash
+cp config.json.sample config.json
+<edit config.json, put "user agent", "userToken", "cf clearance" from your browser with an authenticated Deepseek account>
+```
+
+- User Agen: Its value can be found from any request
+- userToken: Its value can be found in localStorage
+- cf clearance: Its value can be found in cookie
 
 ## How to use
 
