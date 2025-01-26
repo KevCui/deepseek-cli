@@ -1,6 +1,6 @@
 # deepseek-cli
 
-> Chat with [Deepseek](https://chat.deepseek.com/) in terminal
+> Chat with [DeepSeek](https://chat.deepseek.com/) in terminal
 
 # Table of Contents
 
@@ -31,7 +31,7 @@ npx playwright install chromium
 
 ```bash
 cp config.json.sample config.json
-<edit config.json, put "user agent", "userToken", "cf clearance" value from your browser while a Deepseek account is authenticated>
+<edit config.json, put "user agent", "userToken", "cf clearance" value from your browser while a DeepSeek account is authenticated>
 ```
 
 ## How to use
@@ -48,7 +48,7 @@ $ ./deepseek.js "enter any text here"
 
 ## Note
 
-This script is designed to process one question and answer at a time, delivering in plain text format. It is optimized for command-line use, enabling users to rapidly retrieve answers directly in the terminal, without having to engage in a conversation with Deepseek.
+This script is designed to process one question and answer at a time, delivering in plain text format. It is optimized for command-line use, enabling users to rapidly retrieve answers directly in the terminal, without having to engage in a conversation with DeepSeek.
 
 ---
 
