@@ -28,10 +28,10 @@ npx playwright install chromium
 
 ```bash
 cp config.json.sample config.json
-<edit config.json, put "user agent", "userToken", "cf clearance" from your browser with an authenticated Deepseek account>
+<edit config.json, put "user agent", "userToken", "cf clearance" value from your browser with an authenticated Deepseek account>
 ```
 
-- User Agen: Its value can be found from any request
+- User Agent: Its value can be found from any request
 - userToken: Its value can be found in localStorage
 - cf clearance: Its value can be found in cookie
 
